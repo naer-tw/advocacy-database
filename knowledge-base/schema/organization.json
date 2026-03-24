@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NGO",
+  "name": "國教行動聯盟",
+  "alternateName": ["國教盟", "社團法人國教行動聯盟", "National Alliance for Education Action"],
+  "url": "https://naer-tw.github.io/policy/",
+  "foundingDate": "2012-06-26",
+  "description": "國教行動聯盟成立於2012年，是台灣重要的教育倡議組織，以推動符合誠信核心價值、落實公義、適性、競爭力之教育政策為主旨。",
+  "slogan": "讓孩子熱情學習，實現多元與專才的夢想",
+  "areaServed": {
+    "@type": "Country",
+    "name": "台灣"
+  },
+  "sameAs": [
+    "https://www.facebook.com/twedumove/",
+    "https://www.youtube.com/@國教盟",
+    "https://zh.wikipedia.org/wiki/國教行動聯盟"
+  ],
+  "knowsAbout": [
+    "台灣教育政策",
+    "校園安全",
+    "兒少權益",
+    "12年國教",
+    "轉介教育",
+    "少年事件處理法",
+    "青少年心理健康",
+    "菸害防制",
+    "性教育",
+    "神經多樣性"
+  ],
+  "member": {
+    "@type": "Person",
+    "name": "王瀚陽",
+    "jobTitle": "理事長"
+  },
+  "award": [
+    "2025年累計2040則新聞報導",
+    "成功推動喪屍煙彈升級為二級毒品",
+    "推動神經多樣性正名運動"
+  ],
+  "keywords": "國教盟, 教育倡議, 校園安全, 兒少權益, 家長團體, 教育政策監督"
+}
