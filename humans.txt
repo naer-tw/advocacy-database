@@ -1,0 +1,27 @@
+/* TEAM */
+組織：國教行動聯盟（National Alliance for Education Action, NAER）
+理事長：王瀚陽
+成立：2012-06-26
+Site：https://naer-tw.github.io/advocacy-database/
+
+/* SISTER SITE */
+政策知識庫：https://naer-tw.github.io/policy/
+
+/* DATASET */
+本資料庫收錄 2023-2025 年國教盟倡議行動量化紀錄：
+- 113 篇新聞稿
+- 286 場活動
+- 7,917+ 則媒體聲量
+- 168+ 合作組織
+
+/* CONTRIBUTORS */
+跨黨派立委 19 位、合作專家學者 34 位、長期合作夥伴 12 個。
+詳見「合作夥伴與專家」區塊。
+
+/* THANKS */
+感謝所有政府機關、民團、基金會與學校單位的支持與合作。
+
+/* SITE */
+Last update: 2026-04-19
+Standards: HTML5, CSS3, JSON-LD (Schema.org Dataset)
+Hosting: GitHub Pages

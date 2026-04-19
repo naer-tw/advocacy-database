@@ -9,6 +9,14 @@
 <meta name="author" content="國教行動聯盟">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="canonical" href="https://naer-tw.github.io/advocacy-database/">
+
+<!-- Favicon set (跨站引用 policy 站的 logo image) -->
+<link rel="icon" type="image/png" sizes="32x32" href="https://naer-tw.github.io/policy/images/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://naer-tw.github.io/policy/images/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://naer-tw.github.io/policy/images/apple-touch-icon.png">
+<link rel="manifest" href="/advocacy-database/manifest.json">
+<meta name="apple-mobile-web-app-title" content="國教盟資料庫">
+
 <title>倡議成果資料庫 — 國教行動聯盟</title>
 
 <!-- Open Graph -->
@@ -117,6 +125,23 @@
   --radius:8px;
 }
 *{margin:0;padding:0;box-sizing:border-box}
+
+/* A11y: Screen reader only */
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* A11y: Skip to content */
+.skip-link{position:absolute;top:-100px;left:0;background:#0a0a0a;color:#fff;padding:12px 20px;font-size:13px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;z-index:9999;text-decoration:none;transition:top 0.2s ease}
+.skip-link:focus{top:0}
+
+/* A11y: Focus visible */
+:focus{outline:none}
+:focus-visible{outline:2px solid #2FA598;outline-offset:3px;border-radius:2px}
+
+/* A11y: Reduced motion */
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{animation-duration:0.01ms !important;animation-iteration-count:1 !important;transition-duration:0.01ms !important;scroll-behavior:auto !important}
+  .bento-card:hover,.s-tab:hover,.tab:hover{transform:none}
+}
 body{font-family:'Inter','Noto Sans TC',-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text);font-size:14px;-webkit-font-smoothing:antialiased;line-height:1.6}
 
 /* TOP BAR — logo + cross-site nav */
@@ -333,6 +358,8 @@ tr:hover{background:rgba(45,74,74,.03)}
 </head>
 <body>
 
+<a href="#main" class="skip-link">跳至主內容</a>
+
 <nav class="topbar">
 <a href="https://naer-tw.github.io/policy/"><img src="https://naer-tw.github.io/policy/images/logo-naer.png" alt="國教行動聯盟"></a>
 <div class="topbar-nav">
@@ -350,7 +377,7 @@ tr:hover{background:rgba(45,74,74,.03)}
 </div>
 </header>
 
-<div class="container">
+<main id="main" class="container">
 
 <!-- BENTO KPI GRID -->
 <div class="bento-grid">
@@ -422,7 +449,8 @@ tr:hover{background:rgba(45,74,74,.03)}
 <div class="tbl-card">
 <h3>新聞稿資料庫 <span class="badge" id="badge"></span></h3>
 <table>
-<thead><tr><th>#</th><th>日期</th><th>標題</th><th>議題分類</th><th>訴求對象</th><th>政府回應</th></tr></thead>
+<caption class="sr-only">2023-2025 國教盟新聞稿資料庫，含日期、標題、議題分類、訴求對象與政府回應狀態</caption>
+<thead><tr><th scope="col">#</th><th scope="col">日期</th><th scope="col">標題</th><th scope="col">議題分類</th><th scope="col">訴求對象</th><th scope="col">政府回應</th></tr></thead>
 <tbody id="tbody"></tbody>
 </table>
 </div>
@@ -446,7 +474,8 @@ tr:hover{background:rgba(45,74,74,.03)}
 <div class="tbl-card">
 <h3>活動紀錄 <span class="badge" id="actBadge"></span></h3>
 <table>
-<thead><tr><th>#</th><th>日期</th><th>活動名稱</th><th>地點</th><th>單位</th></tr></thead>
+<caption class="sr-only">2023-2025 國教盟活動紀錄，含日期、活動名稱、地點與主辦單位</caption>
+<thead><tr><th scope="col">#</th><th scope="col">日期</th><th scope="col">活動名稱</th><th scope="col">地點</th><th scope="col">單位</th></tr></thead>
 <tbody id="actTbody"></tbody>
 </table>
 </div>
@@ -681,7 +710,7 @@ function submitContact(e){
 renderPress();renderActs();renderPartners();bindF();
 
 </script>
-</div><!-- close container -->
+</main><!-- close container -->
 
 <footer class="footer">
   <div class="footer-main">© 2026 <a href="https://www.facebook.com/twedumove/" target="_blank" rel="noopener">國教行動聯盟</a>　倡議成果資料庫</div>
