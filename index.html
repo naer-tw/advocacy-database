@@ -354,6 +354,20 @@ tr:hover{background:rgba(45,74,74,.03)}
   .month-row{height:100px}
   .month-bar{width:18px}
 }
+
+/* Print stylesheet */
+@media print{
+  .topbar,.skip-link,.reading-progress,.s-tab,.sub-tab,.tabs,.filters,.footer-cross,.btn-submit,form{display:none !important}
+  *{background:transparent !important;color:#000 !important;box-shadow:none !important}
+  body{font-size:11pt;line-height:1.6;max-width:none !important;margin:0;padding:16mm 14mm}
+  .header h1{font-size:18pt;page-break-after:avoid}
+  .header .sub{font-size:11pt}
+  .bento-card{border:1pt solid #000 !important;padding:8pt;page-break-inside:avoid}
+  .bento-num{font-size:22pt !important}
+  table{border-collapse:collapse;page-break-inside:avoid}
+  th,td{border:0.5pt solid #000 !important;padding:4pt 6pt}
+  a{color:#000 !important;text-decoration:underline}
+}
 </style>
 </head>
 <body>
