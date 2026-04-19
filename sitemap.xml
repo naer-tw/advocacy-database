@@ -2,77 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://naer-tw.github.io/advocacy-database/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/index.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/2023/index.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/2024/index.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/2025/index.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/tobacco-drugs.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/education-policy.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/campus-safety.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/child-protection.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/sexual-health.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/topics/mental-health.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/about/organization.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/faq/general.md</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/data.json</loc>
-    <lastmod>2026-03-24</lastmod>
-    <priority>0.6</priority>
   </url>
 </urlset>

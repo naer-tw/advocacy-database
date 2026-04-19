@@ -1,0 +1,54 @@
+# 國教行動聯盟倡議成果資料庫
+
+> 國教行動聯盟 2023-2025 年倡議行動完整紀錄：113 篇新聞稿、286 場活動、7,917+ 則媒體聲量、168+ 合作組織。
+
+本站是國教行動聯盟的「**行動量化資料庫**」，與政策知識庫（[policy.naer-tw](https://naer-tw.github.io/policy/)）為姊妹站：
+- 政策知識庫 → 議題的**深度論述**（為什麼支持 / 反對、法理分析、修法主張）
+- 倡議資料庫 → 行動的**量化紀錄**（什麼時候發稿、辦活動、獲得媒體報導）
+
+## 關鍵指標（2023-2025）
+
+- **113 篇**新聞稿（涵蓋六大議題）
+- **286 場**活動（記者會、論壇、座談會）
+- **7,917+ 則**媒體聲量
+- **168+ 個**合作組織（跨政府機關 40、民團 69、基金會 19、學校 40）
+- **19 位**跨黨派立委合作
+- **34 位**專家學者合作
+- **12 個**長期合作夥伴
+
+## 資料集內容
+
+### 新聞稿資料庫（113 筆）
+依年度分：2023 年 17 筆、2024 年 39 筆、2025 年 57 筆。每筆包含標題、日期、議題分類、訴求對象、政府回應狀態、媒體露出數。
+- JSON 格式下載：[press-v2/data.json](https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/data.json)
+
+### 活動紀錄（286 場）
+依年度分：2023 年 89 場、2024 年 89 場、2025 年 108 場。每筆包含日期、活動名稱、地點、主辦單位。
+
+### 合作夥伴與專家名錄
+跨黨派立委、記者會合作專家、長期合作 NGO、政府機關、基金會與學校單位完整清單。
+
+## 議題分布（2023-2025 倡議焦點）
+
+- 菸害與藥物防制（26 篇）
+- 教育政策與改革（25 篇）
+- 校園安全與管理（21 篇）
+- 兒少權益與保護（15+ 篇）
+- 少年司法改革（10+ 篇）
+- 家長參與與發聲（10+ 篇）
+
+## 對應政策論述
+
+每一個倡議行動都對應政策知識庫上的深度分析。建議對照閱讀：
+- **校園安全** → [policy/campus-safety/](https://naer-tw.github.io/policy/campus-safety/)（5 篇政策專題）
+- **兒少保護** → [policy/child-rights/](https://naer-tw.github.io/policy/child-rights/) + [child-health/](https://naer-tw.github.io/policy/child-health/)（10 篇）
+- **青少年身心健康** → [policy/youth-health/](https://naer-tw.github.io/policy/youth-health/) + [health/](https://naer-tw.github.io/policy/health/)（2 篇）
+- **教育政策與改革** → [policy/education-reform/](https://naer-tw.github.io/policy/education-reform/) + [school-lunch/](https://naer-tw.github.io/policy/school-lunch/)（7 篇）
+- **教師與校務** → [policy/teacher-affairs/](https://naer-tw.github.io/policy/teacher-affairs/)（1 篇）
+
+## 組織資訊
+
+- 官方網站：https://naer-tw.github.io/policy/
+- 倡議資料庫：https://naer-tw.github.io/advocacy-database/
+- 成立時間：2012 年 6 月 26 日
+- Facebook：https://www.facebook.com/twedumove/
