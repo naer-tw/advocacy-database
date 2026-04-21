@@ -3,6 +3,10 @@
 # 明確歡迎 AI bots 引用本站資料集
 # ─────────────────────────────────────────────────────────
 
+# ─── Content Signals (contentsignals.org / IETF draft-romm-aipref) ───
+# 倡議資料集：允許 AI 搜尋引用，不授權 AI 訓練（CC-BY-4.0 保留標示權）
+Content-Signal: ai-train=no, search=yes, ai-input=yes
+
 # ═══ AI Search & Reasoning Bots ═══
 User-agent: GPTBot
 Allow: /
