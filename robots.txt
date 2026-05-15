@@ -83,8 +83,8 @@ User-agent: *
 Allow: /
 
 # ═══ Content Discovery ═══
-Sitemap: https://naer-tw.github.io/advocacy-database/sitemap.xml
+Sitemap: https://advocacy.aabe.org.tw/sitemap.xml
 
 # ═══ AI-friendly content ═══
-# llms.txt: https://naer-tw.github.io/advocacy-database/llms.txt
-# humans.txt: https://naer-tw.github.io/advocacy-database/humans.txt
+# llms.txt: https://advocacy.aabe.org.tw/llms.txt
+# humans.txt: https://advocacy.aabe.org.tw/humans.txt

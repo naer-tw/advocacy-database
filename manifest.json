@@ -10,13 +10,13 @@
   "lang": "zh-TW",
   "icons": [
     {
-      "src": "https://naer-tw.github.io/policy/images/icon-192.png",
+      "src": "https://policy.aabe.org.tw/images/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://naer-tw.github.io/policy/images/icon-512.png",
+      "src": "https://policy.aabe.org.tw/images/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

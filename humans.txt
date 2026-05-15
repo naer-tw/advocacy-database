@@ -1,11 +1,11 @@
 /* TEAM */
-組織：國教行動聯盟（National Alliance for Education Action, NAER）
+組織：國教行動聯盟（Action Alliance on Basic Education, AABE）
 理事長：王瀚陽
 成立：2012-06-26
-Site：https://naer-tw.github.io/advocacy-database/
+Site：https://advocacy.aabe.org.tw/
 
 /* SISTER SITE */
-政策知識庫：https://naer-tw.github.io/policy/
+政策知識庫：https://policy.aabe.org.tw/
 
 /* DATASET */
 本資料庫收錄 2023-2025 年國教盟倡議行動量化紀錄：
