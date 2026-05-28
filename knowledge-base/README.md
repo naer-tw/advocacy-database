@@ -69,7 +69,7 @@ knowledge-base/naer/
 
 ## 🔗 線上版本
 
-- **GitHub Pages**: https://naer-tw.github.io/advocacy-database/knowledge-base/
+- **GitHub Pages**: https://advocacy.aabe.org.tw/knowledge-base/
 - **GitHub Repo**: https://github.com/naer-tw/advocacy-database
 
 ## 📝 如何更新

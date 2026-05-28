@@ -73,7 +73,7 @@ author: 國教行動聯盟
 ## 相關連結
 
 - [維基百科 - 國教行動聯盟](https://zh.wikipedia.org/wiki/國教行動聯盟)
-- [政策知識庫](https://naer-tw.github.io/policy/)
+- [政策知識庫](https://policy.aabe.org.tw/)
 
 ---
 

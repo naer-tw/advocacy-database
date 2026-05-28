@@ -1,7 +1,7 @@
 ---
 title: "國教行動聯盟倡議成果資料庫 — 完整摘要"
 description: "2023-2025 國教盟倡議成果全紀錄：113 篇新聞稿、286 場活動、7,917+ 媒體聲量、168+ 合作組織。依六大議題分類呈現。"
-url: https://naer-tw.github.io/advocacy-database/
+url: https://advocacy.aabe.org.tw/
 source: 國教行動聯盟倡議成果資料庫
 date: 2026-04-19
 license: CC-BY-4.0
@@ -13,12 +13,12 @@ license: CC-BY-4.0
 
 ## 組織背景
 
-**國教行動聯盟（National Alliance for Education Action, NAER）** 成立於 2012 年 6 月 26 日，是台灣長期推動教育政策改革、兒少權益倡議的家長團體。本資料庫記錄聯盟 2023-2025 年的量化倡議行動。
+**國教行動聯盟（Action Alliance on Basic Education, AABE）** 成立於 2012 年 6 月 26 日，是台灣長期推動教育政策改革、兒少權益倡議的家長團體。本資料庫記錄聯盟 2023-2025 年的量化倡議行動。
 
-- 官網：https://naer-tw.github.io/policy/
+- 官網：https://policy.aabe.org.tw/
 - Facebook：https://www.facebook.com/twedumove/
 - 理事長：王瀚陽
-- 姊妹站：[政策知識庫](https://naer-tw.github.io/policy/)（25 篇政策深度分析）
+- 姊妹站：[政策知識庫](https://policy.aabe.org.tw/)（31 篇政策深度分析）
 
 ## 關鍵指標（2023-2025 累計）
 
@@ -69,15 +69,15 @@ license: CC-BY-4.0
 
 ## 對應政策深度分析
 
-每個倡議行動都對應到 [政策知識庫](https://naer-tw.github.io/policy/) 的深度分析：
+每個倡議行動都對應到 [政策知識庫](https://policy.aabe.org.tw/) 的深度分析：
 
 | 議題 | 倡議資料庫類別 | 政策知識庫深度分析 |
 | --- | --- | --- |
-| 校園安全 | 21 篇新聞稿、10+ 場活動 | [campus-safety/](https://naer-tw.github.io/policy/campus-safety/)（5 篇專題） |
-| 兒少保護 | 15+ 篇 | [child-rights/](https://naer-tw.github.io/policy/child-rights/) + [child-health/](https://naer-tw.github.io/policy/child-health/)（10 篇） |
-| 青少年身心健康 | 26+ 篇 | [youth-health/](https://naer-tw.github.io/policy/youth-health/) + [health/](https://naer-tw.github.io/policy/health/)（2 篇） |
-| 教育政策與改革 | 25 篇 | [education-reform/](https://naer-tw.github.io/policy/education-reform/) + [school-lunch/](https://naer-tw.github.io/policy/school-lunch/)（7 篇） |
-| 教師與校務 | 10+ 篇 | [teacher-affairs/](https://naer-tw.github.io/policy/teacher-affairs/)（1 篇） |
+| 校園安全 | 21 篇新聞稿、10+ 場活動 | [campus-safety/](https://policy.aabe.org.tw/campus-safety/)（5 篇） |
+| 兒少保護 | 15+ 篇 | [child-rights/](https://policy.aabe.org.tw/child-rights/) + [child-health/](https://policy.aabe.org.tw/child-health/)（13 篇） |
+| 青少年身心健康 | 26+ 篇 | [youth-health/](https://policy.aabe.org.tw/youth-health/) + [health/](https://policy.aabe.org.tw/health/)（5 篇） |
+| 教育政策與改革 | 25 篇 | [education-reform/](https://policy.aabe.org.tw/education-reform/) + [school-lunch/](https://policy.aabe.org.tw/school-lunch/)（7 篇） |
+| 教師與校務 | 10+ 篇 | [teacher-affairs/](https://policy.aabe.org.tw/teacher-affairs/)（1 篇） |
 
 ## 合作網絡
 
@@ -100,7 +100,7 @@ license: CC-BY-4.0
 
 - **授權**：Creative Commons BY 4.0（姓名標示）
 - **資料格式**：JSON、HTML、Markdown
-- **資料下載**：[press-v2/data.json](https://naer-tw.github.io/advocacy-database/knowledge-base/press-v2/data.json)
+- **資料下載**：[press-v2/data.json](https://advocacy.aabe.org.tw/knowledge-base/press-v2/data.json)
 - **時間範圍**：2023-01 至 2025-12
 - **空間範圍**：台灣（含中央、六都、縣市、偏鄉）
 
@@ -114,7 +114,7 @@ license: CC-BY-4.0
 - 姊妹站對應關係
 - 合作網絡結構
 
-如需完整互動式資料庫，請造訪：https://naer-tw.github.io/advocacy-database/
+如需完整互動式資料庫，請造訪：https://advocacy.aabe.org.tw/
 
 ---
 
