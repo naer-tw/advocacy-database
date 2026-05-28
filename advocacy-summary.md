@@ -18,7 +18,7 @@ license: CC-BY-4.0
 - 官網：https://policy.aabe.org.tw/
 - Facebook：https://www.facebook.com/twedumove/
 - 理事長：王瀚陽
-- 姊妹站：[政策知識庫](https://policy.aabe.org.tw/)（31 篇政策深度分析）
+- 姊妹站：[政策知識庫](https://policy.aabe.org.tw/)（32 篇政策深度分析）
 
 ## 關鍵指標（2023-2025 累計）
 
