@@ -18,7 +18,7 @@ license: CC-BY-4.0
 - 官網：https://policy.aabe.org.tw/
 - Facebook：https://www.facebook.com/twedumove/
 - 理事長：王瀚陽
-- 姊妹站：[政策知識庫](https://policy.aabe.org.tw/)（33 篇政策深度分析）
+- 姊妹站：[政策資料庫](https://policy.aabe.org.tw/)（33 篇政策深度分析）
 
 ## 關鍵指標（2023-2025 累計）
 
@@ -69,9 +69,9 @@ license: CC-BY-4.0
 
 ## 對應政策深度分析
 
-每個倡議行動都對應到 [政策知識庫](https://policy.aabe.org.tw/) 的深度分析：
+每個倡議行動都對應到 [政策資料庫](https://policy.aabe.org.tw/) 的深度分析：
 
-| 議題 | 倡議資料庫類別 | 政策知識庫深度分析 |
+| 議題 | 倡議資料庫類別 | 政策資料庫深度分析 |
 | --- | --- | --- |
 | 校園安全 | 21 篇新聞稿、10+ 場活動 | [campus-safety/](https://policy.aabe.org.tw/campus-safety/)（5 篇） |
 | 兒少保護 | 15+ 篇 | [child-rights/](https://policy.aabe.org.tw/child-rights/) + [child-health/](https://policy.aabe.org.tw/child-health/)（13 篇） |

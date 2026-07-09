@@ -5,7 +5,7 @@
 Site：https://advocacy.aabe.org.tw/
 
 /* SISTER SITE */
-政策知識庫：https://policy.aabe.org.tw/
+政策資料庫：https://policy.aabe.org.tw/
 
 /* DATASET */
 本資料庫收錄 2023-2025 年國教盟倡議行動量化紀錄：

@@ -2,8 +2,8 @@
 
 > 國教行動聯盟 2023-2025 年倡議行動完整紀錄：113 篇新聞稿、286 場活動、7,917+ 則媒體聲量、168+ 合作組織。
 
-本站是國教行動聯盟的「**行動量化資料庫**」，與政策知識庫（[policy.naer-tw](https://policy.aabe.org.tw/)）為姊妹站：
-- 政策知識庫 → 議題的**深度論述**（為什麼支持 / 反對、法理分析、修法主張）
+本站是國教行動聯盟的「**行動量化資料庫**」，與政策資料庫（[policy.naer-tw](https://policy.aabe.org.tw/)）為姊妹站：
+- 政策資料庫 → 議題的**深度論述**（為什麼支持 / 反對、法理分析、修法主張）
 - 倡議資料庫 → 行動的**量化紀錄**（什麼時候發稿、辦活動、獲得媒體報導）
 
 ## 關鍵指標（2023-2025）
@@ -39,7 +39,7 @@
 
 ## 對應政策論述
 
-每一個倡議行動都對應政策知識庫上的深度分析。建議對照閱讀：
+每一個倡議行動都對應政策資料庫上的深度分析。建議對照閱讀：
 - **校園安全** → [policy/campus-safety/](https://policy.aabe.org.tw/campus-safety/)（5 篇政策專題）
 - **兒少保護** → [policy/child-rights/](https://policy.aabe.org.tw/child-rights/) + [child-health/](https://policy.aabe.org.tw/child-health/)（10 篇）
 - **青少年身心健康** → [policy/youth-health/](https://policy.aabe.org.tw/youth-health/) + [health/](https://policy.aabe.org.tw/health/)（2 篇）
